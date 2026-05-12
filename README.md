@@ -1,10 +1,10 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=110&section=header&text=Prajwal%20P%20Raikar&fontSize=38&fontColor=58a6ff&fontAlignY=65&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Web%20%2B%20AI%20%7C%20India&descAlignY=85&descSize=15&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=180&section=header&text=Prajwal%20P%20Raikar&fontSize=40&fontColor=58a6ff&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Web%20%2B%20AI%20%7C%20India&descAlignY=62&descSize=15&descColor=8b949e" />
 
 <!-- TYPING SVG -->
 <div align="center">
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=%3E+const+prajwal+%3D+new+Developer()%3B;%3E+prajwal.build(%22real-world+solutions%22)%3B;%3E+prajwal.learn(%22AI+%2B+Web+%2B+CS+fundamentals%22)%3B;%3E+while(true)+%7B+ship()%3B+iterate()%3B+%7D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1200&pause=300&color=58A6FF&center=true&vCenter=true&multiline=false&width=500&lines=const+prajwal+%3D+Developer()%3B;prajwal.build(%22web+%2B+AI%22)%3B;prajwal.learn(%22CS+fundamentals%22)%3B;ship()%3B+iterate()%3B+repeat()%3B" alt="Typing SVG" />
 <br><br>
 </div>
 
