@@ -33,10 +33,11 @@ const prajwal: Developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://linkedin.com/in/prajwal-p-raikar)
-[![Reddit](https://img.shields.io/badge/Reddit-0d1117?style=for-the-badge&logo=reddit&logoColor=58a6ff&labelColor=0d1117)](https://reddit.com/user/prajwalraikar)
-[![Quora](https://img.shields.io/badge/Quora-0d1117?style=for-the-badge&logo=quora&logoColor=58a6ff&labelColor=0d1117)](https://quora.com/profile/Prajwal-P-Raikar)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117)](mailto:prajwalraikar1609@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/prajwal-p-raikar)
+[![X](https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/itsprajwalpr)
+[![Reddit](https://img.shields.io/badge/Reddit-161b22?style=for-the-badge&logo=reddit&logoColor=ff4500)](https://reddit.com/user/prajwalraikar)
+[![Quora](https://img.shields.io/badge/Quora-161b22?style=for-the-badge&logo=quora&logoColor=b92b27)](https://quora.com/profile/Prajwal-P-Raikar)
+[![Gmail](https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:prajwalraikar1609@gmail.com)
 
 </div>
 
