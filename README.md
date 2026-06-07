@@ -16,7 +16,7 @@
 const prajwal: Developer = {
   name        : "Prajwal P Raikar",
   role        : "Full Stack Developer",
-  location    : "India 🇮🇳",
+  location    : "India",
   currentWork : "Web & AI-based projects focused on real-world problem solving",
   collab      : "Innovative web, AI, and open-source projects",
   seeking     : "Scalable system design & advanced AI tools",
