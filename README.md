@@ -23,7 +23,7 @@ const prajwal: Developer = {
   learning    : ["Modern web frameworks", "AI tools", "Core CS concepts"],
   askMeAbout  : ["Web dev", "Project building", "CS fundamentals"],
   funFact     : "I turn ideas into working prototypes⚡",
-  status      : "Always building. Always shipping. 🚀",
+  status      : "Always building. Always shipping🚀",
 };
 ```
 
