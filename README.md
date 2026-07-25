@@ -1,104 +1,231 @@
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=180&section=header&text=Prajwal%20P%20Raikar&fontSize=40&fontColor=58a6ff&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Web%20%2B%20AI%20%7C%20India&descAlignY=62&descSize=15&descColor=8b949e" />
+<!-- ============================================================ -->
+<!--                PRAJWAL P RAIKAR — GITHUB PROFILE            -->
+<!-- ============================================================ -->
 
-<!-- TYPING SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d3320,100:0d1117&height=190&section=header&text=Prajwal%20P%20Raikar&fontSize=42&fontColor=3fb950&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20%7C%20Cloud%20Engineering&descAlignY=56&descSize=16&descColor=8b949e" />
+
 <div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=3fb950)](https://prajwalraikar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=3fb950)](https://linkedin.com/in/prajwal-p-raikar)
+[![X](https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=3fb950)](https://x.com/itsprajwalpr)
+[![Gmail](https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=3fb950)](mailto:prajwalraikar1609@gmail.com)
+
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1200&pause=300&color=58A6FF&center=true&vCenter=true&multiline=false&width=500&lines=const+prajwal+%3D+Developer()%3B;prajwal.build(%22web+%2B+AI%22)%3B;prajwal.learn(%22CS+fundamentals%22)%3B;ship()%3B+iterate()%3B+repeat()%3B" alt="Typing SVG" />
-<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=1200&pause=300&color=3FB950&center=true&vCenter=true&multiline=false&width=560&lines=const+prajwal+%3D+Developer()%3B;prajwal.build(%22AI+%2B+Full-Stack+apps%22)%3B;prajwal.status(%22Open+to+Work%22)%3B;ship()%3B+iterate()%3B+repeat()%3B" alt="Typing SVG" />
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+### 🟢&nbsp; Open to Work &nbsp;<sub>(Full-Time & Internships)</sub>
+
+Software Engineer&nbsp;·&nbsp;Full-Stack Developer&nbsp;·&nbsp;AI/ML&nbsp;·&nbsp;Cloud Engineering
+
+📍&nbsp;Bangalore&nbsp;·&nbsp;Chennai&nbsp;·&nbsp;Pune&nbsp;·&nbsp;Hyderabad
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💼&nbsp;Hybrid&nbsp;·&nbsp;Offsite&nbsp;·&nbsp;Onsite
+
+</td>
+</tr>
+</table>
+
 </div>
 
----
+<br>
 
-## `// WHO AM I`
+## `// ABOUT ME`
 
 ```ts
 const prajwal: Developer = {
-  name        : "Prajwal P Raikar",
-  role        : "Full Stack Developer",
-  location    : "India",
-  currentWork : "Web & AI-Based projects focused on real-world problem solving",
-  collab      : "Innovative web, AI, and open-source projects",
-  seeking     : "Scalable system design & advanced AI tools",
-  learning    : ["Modern web frameworks", "AI tools", "Core CS concepts"],
-  askMeAbout  : ["Web dev", "Project building", "CS fundamentals"],
-  funFact     : "I turn ideas into working prototypes⚡",
-  status      : "Always building. Always shipping🚀",
+  role        : "Final Year CSE Student · Full Stack Developer",
+  university  : "Bapuji Institute of Engineering and Technology (VTU)",
+  graduation  : "Expected May 2027",
+  location    : "Davanagere, Karnataka, India",
+  leadership  : ["Google Gemini Student Ambassador 2026", "GeeksforGeeks Campus Mantri"],
+  currentRole : "Web Developer Intern @ OriginEdge Technologies",
 };
 ```
 
----
+I'm a final-year Computer Science and Engineering student passionate about **Full-Stack Web Development, AI, and Cloud Computing**. I specialize in building scalable, user-centric applications using modern software engineering practices.
 
-## `// CONNECT`
+Through internships, projects, and hackathons, I have gained hands-on experience building innovative products under pressure. My leadership roles as a **Google Gemini Student Ambassador 2026** and **GeeksforGeeks Campus Mantri** have allowed me to lead tech initiatives, promote AI awareness, and foster community learning.
 
-<div align="center">
+I am driven by continuous learning, collaboration, and a passion for creating technology that makes a meaningful, real-world impact.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-p-raikar)
-[![X](https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itsprajwalpr)
-[![Reddit](https://img.shields.io/badge/Reddit-161b22?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/prajwalraikar)
-[![Quora](https://img.shields.io/badge/Quora-161b22?style=for-the-badge&logo=quora&logoColor=white)](https://quora.com/profile/Prajwal-P-Raikar)
-[![Gmail](https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalraikar1609@gmail.com)
-
-</div>
-
----
+<br>
 
 ## `// TECH STACK`
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6)&nbsp;
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=3c873a)&nbsp;
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3670a0)&nbsp;
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ed8b00)&nbsp;
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00599c)&nbsp;
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599c)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572b6)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=ff9900)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d1117?style=flat-square&logo=googlecloud&logoColor=4285f4)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=ffca28)&nbsp;
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ecf8e)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47a248)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00758f)&nbsp;
-![Web3.js](https://img.shields.io/badge/Web3.js-0d1117?style=flat-square&logo=web3dotjs&logoColor=f16822)&nbsp;
-![Adobe](https://img.shields.io/badge/Adobe-0d1117?style=flat-square&logo=adobe&logoColor=ff0000)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-0d1117?style=flat-square&logo=canva&logoColor=00c4cc)
+**Languages**
+<br>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
+<br>
 
----
+**Frontend**
+<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## `// GITHUB STATS`
+<br>
 
-<div align="center">
+**Backend & Databases**
+<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=prajwalpr4&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalpr4&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&cache_seconds=1800" width="41%" />
+<br>
+
+**Cloud, DevOps & Tooling**
+<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 <br>
 
+## `// PROFESSIONAL EXPERIENCE`
+
+<table>
+<tr><td width="100%">
+
+**💻 Web Developer Intern** — OriginEdge Technologies&nbsp;&nbsp;·&nbsp;&nbsp;*Jun 2026 – Present*
+
+- Engineered responsive React.js UI components across 10+ pages of the Data Vidwan Job Portal, standardizing layout consistency platform-wide
+- Resolved 15+ frontend bugs through code review collaboration, improving page responsiveness and UX
+
+</td></tr>
+<tr><td width="100%">
+
+**☁️ AWS Cloud Computing Virtual Intern** — NASSCOM FutureSkills Prime & SmartBridge&nbsp;&nbsp;·&nbsp;&nbsp;*Jan 2026 – Mar 2026*
+
+- Deployed and configured 5 AWS services (EC2, S3, IAM, VPC, RDS) across hands-on labs
+- Built working knowledge of end-to-end cloud deployment — provisioning VMs, networking, storage, and databases
+
+</td></tr>
+</table>
+
+<br>
+
+## `// ACHIEVEMENTS & LEADERSHIP`
+
+| Recognition | Event | Details |
+|:---|:---|:---|
+| 🏆 1st Place | INFOTHON 5.0 | National-level 24-hour hackathon, VVCE Mysuru · *Oct 2025* |
+| 🥈 2nd Place | Agentic AI & Generative AI Hackathon | BIET Davanagere · *Aug 2025* |
+| 🌟 Top 10 Finalist | HACK_KARNATAKA | 30-hour hackathon organized by Google Developer Group, KLE Hubballi · *Nov 2025* — among 1,000+ teams |
+| 🎓 Student Ambassador | Google Gemini Student Ambassador 2026 | Promoted AI awareness & built developer community through campus initiatives |
+| 🧑‍💻 Campus Mantri | GeeksforGeeks Campus Mantri | Drove technical learning initiatives & mentored students in coding & problem-solving |
+
+<br>
+
+## `// CERTIFICATIONS`
+
+| Certification | Issued By | Date |
+|:---|:---|:---|
+| AWS Certified Cloud Practitioner | AWS | Jun 2026 |
+| Associate Developer Exam – Python | MongoDB | Jul 2025 |
+| Certified Data Science Professional | Oracle | Oct 2025 |
+
+<br>
+
+## `// GITHUB ANALYTICS`
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=prajwalpr4&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api?username=prajwalpr4&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&icon_color=3fb950&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalpr4&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&langs_count=8&cache_seconds=1800" width="41%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=prajwalpr4&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=8b949e&dates=8b949e" width="55%" />
 
 </div>
 
----
+<br>
 
 ## `// CONTRIBUTION GRAPH`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalpr4&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f2937&hide_border=true&custom_title=Prajwal's%20Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalpr4&bg_color=0d1117&color=3fb950&line=238636&point=3fb950&area=true&area_color=0d3320&hide_border=true" width="100%" />
 
 </div>
 
----
+<br>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0d1117,100:0d1117&height=80&section=footer" />
+## `// CONTRIBUTION SNAKE`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwalpr4/prajwalpr4/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwalpr4/prajwalpr4/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/prajwalpr4/prajwalpr4/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+> ⚠️ **If the snake above shows a broken image, it's because the animation hasn't been generated yet** — this is expected until you complete the one-time setup below. It's not a bug in this README.
+
+**One-time setup (takes 2 minutes):**
+
+1. Create the workflow file `.github/workflows/snake.yml` in **this exact repo** (`prajwalpr4/prajwalpr4`) with the content below
+2. Go to **Settings → Actions → General → Workflow permissions** → select **Read and write permissions** → Save
+3. Go to the **Actions** tab → select **Generate Snake Animation** → click **Run workflow** (manually trigger it once)
+4. Wait ~30 seconds — GitHub Actions will auto-create an **`output`** branch containing the generated SVGs
+5. Refresh this README — the snake will now render and will auto-update daily after that
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3320,50:0d1117,100:0d1117&height=90&section=footer" />
