@@ -186,7 +186,7 @@ I am driven by continuous learning, collaboration, and a passion for creating te
 </picture>
 
 </div>
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 <br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3320,50:0d1117,100:0d1117&height=90&section=footer" />
