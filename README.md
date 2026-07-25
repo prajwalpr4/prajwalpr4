@@ -186,43 +186,6 @@ I am driven by continuous learning, collaboration, and a passion for creating te
 </picture>
 
 </div>
-
-> ⚠️ **If the snake above shows a broken image, it's because the animation hasn't been generated yet** — this is expected until you complete the one-time setup below. It's not a bug in this README.
-
-**One-time setup (takes 2 minutes):**
-
-1. Create the workflow file `.github/workflows/snake.yml` in **this exact repo** (`prajwalpr4/prajwalpr4`) with the content below
-2. Go to **Settings → Actions → General → Workflow permissions** → select **Read and write permissions** → Save
-3. Go to the **Actions** tab → select **Generate Snake Animation** → click **Run workflow** (manually trigger it once)
-4. Wait ~30 seconds — GitHub Actions will auto-create an **`output`** branch containing the generated SVGs
-5. Refresh this README — the snake will now render and will auto-update daily after that
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
