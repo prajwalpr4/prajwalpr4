@@ -154,16 +154,9 @@ I am driven by continuous learning, collaboration, and a passion for creating te
 
 <div align="center">
 
-View my detailed GitHub analytics and contribution history directly:
+<img src="https://streak-stats.demolab.com/?user=prajwalpr4&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=8b949e&dates=8b949e" width="60%" />
 
-[![GitHub Profile](https://img.shields.io/badge/View%20Full%20GitHub%20Profile-161b22?style=for-the-badge&logo=github&logoColor=3fb950)](https://github.com/prajwalpr4?tab=repositories)
-
-**Stats at a glance:**
-- 📊 Commits, contributions, and language breakdown available on profile
-- 🔗 Real-time data, always accurate
-- 🎯 Check repositories, starred projects, and contribution graph
-
-<br>
+<br><br>
 
 </div>
 
