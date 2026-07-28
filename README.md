@@ -145,8 +145,8 @@ I am driven by continuous learning, collaboration, and a passion for creating te
 | Certification | Issued By | Date |
 |:---|:---|:---|
 | AWS Certified Cloud Practitioner | AWS | Jun 2026 |
-| MongoDB Associate Developer – Python | MongoDB | Jul 2025 |
-| Oracle Certified Data Science Professional | Oracle | Oct 2025 |
+| Associate Developer Exam – Python | MongoDB | Jul 2025 |
+| Certified Data Science Professional | Oracle | Oct 2025 |
 
 <br>
 
@@ -154,16 +154,18 @@ I am driven by continuous learning, collaboration, and a passion for creating te
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prajwalpr4&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&icon_color=3fb950&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalpr4&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&langs_count=8&cache_seconds=1800" width="41%" />
+View my detailed GitHub analytics and contribution history directly:
 
-<br><br>
+[![GitHub Profile](https://img.shields.io/badge/View%20Full%20GitHub%20Profile-161b22?style=for-the-badge&logo=github&logoColor=3fb950)](https://github.com/prajwalpr4?tab=repositories)
 
-<img src="https://streak-stats.demolab.com/?user=prajwalpr4&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=8b949e&dates=8b949e" width="55%" />
-
-</div>
+**Stats at a glance:**
+- 📊 Commits, contributions, and language breakdown available on profile
+- 🔗 Real-time data, always accurate
+- 🎯 Check repositories, starred projects, and contribution graph
 
 <br>
+
+</div>
 
 ## `// CONTRIBUTION GRAPH`
 
