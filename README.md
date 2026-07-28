@@ -154,19 +154,15 @@ I am driven by continuous learning, collaboration, and a passion for creating te
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=prajwalpr4&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwalpr4&theme=github_dark" />
 
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwalpr4&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajwalpr4&theme=github_dark" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajwalpr4&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajwalpr4&theme=github_dark" />
 
-<br><br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prajwalpr4&theme=github_dark" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajwalpr4&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prajwalpr4&theme=github_dark&utcOffset=5.5" />
 
 </div>
 
