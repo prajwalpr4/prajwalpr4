@@ -154,13 +154,13 @@ I am driven by continuous learning, collaboration, and a passion for creating te
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=prajwalpr4&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=8b949e&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prajwalpr4&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=8b949e&rank_icon=github&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prajwalpr4&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalpr4&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&langs_count=8&cache_seconds=1800"/>
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=prajwalpr4&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=8b949e&dates=8b949e" />
+<img width="70%" src="https://streak-stats.demolab.com?user=prajwalpr4&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=8b949e&dates=8b949e&stroke=0d1117&cache_seconds=1800"/>
 
 </div>
 
