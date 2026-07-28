@@ -154,15 +154,11 @@ I am driven by continuous learning, collaboration, and a passion for creating te
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwalpr4&theme=github_dark" />
+<img src="https://komarev.com/ghpvc/?username=prajwalpr4&label=Profile%20Views&color=238636&style=for-the-badge"/>
 
-<br><br>
+<img src="https://img.shields.io/github/followers/prajwalpr4?style=for-the-badge&color=238636"/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajwalpr4&theme=github_dark" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajwalpr4&theme=github_dark" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prajwalpr4&theme=github_dark&utcOffset=5.5" />
+<img src="https://img.shields.io/github/stars/prajwalpr4?style=for-the-badge&color=238636"/>
 
 </div>
 
