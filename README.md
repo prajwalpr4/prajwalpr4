@@ -17,21 +17,6 @@
 
 <br>
 
-<table>
-<tr>
-<td align="center">
-
-### 🟢&nbsp; Open to Work &nbsp;<sub>(Full-Time & Internships)</sub>
-
-Software Engineer&nbsp;·&nbsp;Full-Stack Developer&nbsp;·&nbsp;AI/ML&nbsp;·&nbsp;Cloud Engineering
-
-📍&nbsp;Bangalore&nbsp;·&nbsp;Chennai&nbsp;·&nbsp;Pune&nbsp;·&nbsp;Hyderabad
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💼&nbsp;Hybrid&nbsp;·&nbsp;Offsite&nbsp;·&nbsp;Onsite
-
-</td>
-</tr>
-</table>
-
 </div>
 
 <br>
