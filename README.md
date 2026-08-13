@@ -130,8 +130,8 @@ I am driven by continuous learning, collaboration, and a passion for creating te
 | Certification | Issued By | Date |
 |:---|:---|:---|
 | AWS Certified Cloud Practitioner | AWS | Jun 2026 |
-| Associate Developer Exam – Python | MongoDB | Jul 2025 |
-| Certified Data Science Professional | Oracle | Oct 2025 |
+| MongoDb Certified Associate Developer | MongoDB | Jul 2025 |
+| Microsoft Certified: Azure AI Cloud Developer Associate | Microsoft | Aug 2026 |
 
 <br>
 
