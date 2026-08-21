@@ -151,7 +151,7 @@ I am driven by continuous learning, collaboration, and a passion for creating te
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalpr4&bg_color=0d1117&color=3fb950&line=238636&point=3fb950&area=true&area_color=0d3320&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalpr4&theme=github-compact&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&hide_border=true" width="100%" />
 
 </div>
 
