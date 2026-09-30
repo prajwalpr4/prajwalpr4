@@ -95,7 +95,7 @@ I am driven by continuous learning, collaboration, and a passion for creating te
 <table>
 <tr><td width="100%">
 
-**💻 Web Developer Intern** — OriginEdge Technologies&nbsp;&nbsp;·&nbsp;&nbsp;*Jun 2026 – Present*
+**💻 Web Developer Intern** — OriginEdge Technologies&nbsp;&nbsp;·&nbsp;&nbsp;*Jun 2026 – Sept 2026*
 
 - Engineered responsive React.js UI components across 10+ pages of the Data Vidwan Job Portal, standardizing layout consistency platform-wide
 - Resolved 15+ frontend bugs through code review collaboration, improving page responsiveness and UX
@@ -130,7 +130,8 @@ I am driven by continuous learning, collaboration, and a passion for creating te
 | Certification | Issued By | Date |
 |:---|:---|:---|
 | AWS Certified Cloud Practitioner | AWS | Jun 2026 |
-| MongoDb Certified Associate Developer | MongoDB | Jul 2025 |
+| Claude Certified Developer - Foundations | Anthropic | Sept 2026 |
+| MongoDB Certified Associate Developer | MongoDB | Jul 2025 |
 | Microsoft Certified: Azure AI Cloud Developer Associate | Microsoft | Aug 2026 |
 
 <br>
